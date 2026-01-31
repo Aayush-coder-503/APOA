@@ -1,0 +1,50 @@
+{
+  "SBI_VISA": {
+    "confidence": 0.15000000000000002,
+    "times_seen": 58
+  },
+  "SBI_MASTERCARD": {
+    "confidence": 0.30000000000000004,
+    "times_seen": 58
+  },
+  "AXIS_MASTERCARD": {
+    "confidence": 0.10000000000000002,
+    "times_seen": 58
+  },
+  "AXIS_RUPAY": {
+    "confidence": 0.10000000000000002,
+    "times_seen": 58
+  },
+  "ICICI_VISA": {
+    "confidence": 0.2,
+    "times_seen": 58
+  },
+  "HDFC_RUPAY": {
+    "confidence": 0.10000000000000002,
+    "times_seen": 58
+  },
+  "ICICI_MASTERCARD": {
+    "confidence": 0.10000000000000002,
+    "times_seen": 58
+  },
+  "AXIS_VISA": {
+    "confidence": 0.15000000000000002,
+    "times_seen": 58
+  },
+  "SBI_RUPAY": {
+    "confidence": 0.35,
+    "times_seen": 58
+  },
+  "ICICI_RUPAY": {
+    "confidence": 0.2,
+    "times_seen": 58
+  },
+  "HDFC_MASTERCARD": {
+    "confidence": 0.1,
+    "times_seen": 58
+  },
+  "HDFC_VISA": {
+    "confidence": 0.15000000000000002,
+    "times_seen": 58
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "AXIS-RUPAY": {
+    "success_rate": 0.927,
+    "failure_rate": 0.073,
+    "avg_latency": 1167.9,
+    "errors": {
+      "issuer_decline": 1,
+      "timeout": 2,
+      "network_error": 1
+    },
+    "total": 55
+  },
+  "HDFC-MASTERCARD": {
+    "success_rate": 0.4,
+    "failure_rate": 0.6,
+    "avg_latency": 1908.3,
+    "errors": {
+      "issuer_decline": 12,
+      "timeout": 8,
+      "network_error": 4
+    },
+    "total": 40
+  },
+  "ICICI-MASTERCARD": {
+    "success_rate": 0.942,
+    "failure_rate": 0.058,
+    "avg_latency": 1233.0,
+    "errors": {
+      "network_error": 1,
+      "timeout": 2
+    },
+    "total": 52
+  },
+  "SBI-VISA": {
+    "success_rate": 0.571,
+    "failure_rate": 0.429,
+    "avg_latency": 1764.5,
+    "errors": {
+      "timeout": 9,
+      "issuer_decline": 6,
+      "network_error": 6
+    },
+    "total": 49
+  },
+  "SBI-MASTERCARD": {
+    "success_rate": 0.595,
+    "failure_rate": 0.405,
+    "avg_latency": 1503.4,
+    "errors": {
+      "timeout": 4,
+      "issuer_decline": 7,
+      "network_error": 4
+    },
+    "total": 37
+  },
+  "SBI-RUPAY": {
+    "success_rate": 0.551,
+    "failure_rate": 0.449,
+    "avg_latency": 1719.9,
+    "errors": {
+      "timeout": 8,
+      "network_error": 9,
+      "issuer_decline": 5
+    },
+    "total": 49
+  },
+  "AXIS-VISA": {
+    "success_rate": 0.983,
+    "failure_rate": 0.017,
+    "avg_latency": 1132.2,
+    "errors": {
+      "timeout": 1
+    },
+    "total": 58
+  },
+  "AXIS-MASTERCARD": {
+    "success_rate": 0.325,
+    "failure_rate": 0.675,
+    "avg_latency": 1862.4,
+    "errors": {
+      "timeout": 12,
+      "network_error": 11,
+      "issuer_decline": 4
+    },
+    "total": 40
+  },
+  "ICICI-RUPAY": {
+    "success_rate": 0.593,
+    "failure_rate": 0.407,
+    "avg_latency": 1601.9,
+    "errors": {
+      "network_error": 6,
+      "timeout": 7,
+      "issuer_decline": 9
+    },
+    "total": 54
+  },
+  "HDFC-VISA": {
+    "success_rate": 0.226,
+    "failure_rate": 0.774,
+    "avg_latency": 1834.1,
+    "errors": {
+      "timeout": 13,
+      "issuer_decline": 18,
+      "network_error": 10
+    },
+    "total": 53
+  },
+  "ICICI-VISA": {
+    "success_rate": 0.962,
+    "failure_rate": 0.038,
+    "avg_latency": 1317.6,
+    "errors": {
+      "timeout": 1,
+      "network_error": 1
+    },
+    "total": 52
+  },
+  "HDFC-RUPAY": {
+    "success_rate": 0.475,
+    "failure_rate": 0.525,
+    "avg_latency": 1798.9,
+    "errors": {
+      "network_error": 7,
+      "issuer_decline": 13,
+      "timeout": 11
+    },
+    "total": 59
+  }
+}

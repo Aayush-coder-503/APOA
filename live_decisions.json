@@ -1,0 +1,106 @@
+[
+  {
+    "bank": "HDFC",
+    "card": "MASTERCARD",
+    "probability": 0.81,
+    "impact_percent": 60.0,
+    "latency": 1908.3,
+    "errors": {
+      "issuer_decline": 12,
+      "timeout": 8,
+      "network_error": 4
+    },
+    "suggested_action": "partial_reroute"
+  },
+  {
+    "bank": "SBI",
+    "card": "VISA",
+    "probability": 0.81,
+    "impact_percent": 42.9,
+    "latency": 1764.5,
+    "errors": {
+      "timeout": 9,
+      "issuer_decline": 6,
+      "network_error": 6
+    },
+    "suggested_action": "partial_reroute"
+  },
+  {
+    "bank": "SBI",
+    "card": "MASTERCARD",
+    "probability": 0.83,
+    "impact_percent": 40.5,
+    "latency": 1503.4,
+    "errors": {
+      "timeout": 4,
+      "issuer_decline": 7,
+      "network_error": 4
+    },
+    "suggested_action": "partial_reroute"
+  },
+  {
+    "bank": "SBI",
+    "card": "RUPAY",
+    "probability": 0.83,
+    "impact_percent": 44.9,
+    "latency": 1719.9,
+    "errors": {
+      "timeout": 8,
+      "network_error": 9,
+      "issuer_decline": 5
+    },
+    "suggested_action": "partial_reroute"
+  },
+  {
+    "bank": "AXIS",
+    "card": "MASTERCARD",
+    "probability": 0.82,
+    "impact_percent": 67.5,
+    "latency": 1862.4,
+    "errors": {
+      "timeout": 12,
+      "network_error": 11,
+      "issuer_decline": 4
+    },
+    "suggested_action": "partial_reroute"
+  },
+  {
+    "bank": "ICICI",
+    "card": "RUPAY",
+    "probability": 0.83,
+    "impact_percent": 40.7,
+    "latency": 1601.9,
+    "errors": {
+      "network_error": 6,
+      "timeout": 7,
+      "issuer_decline": 9
+    },
+    "suggested_action": "partial_reroute"
+  },
+  {
+    "bank": "HDFC",
+    "card": "VISA",
+    "probability": 0.81,
+    "impact_percent": 77.4,
+    "latency": 1834.1,
+    "errors": {
+      "timeout": 13,
+      "issuer_decline": 18,
+      "network_error": 10
+    },
+    "suggested_action": "partial_reroute"
+  },
+  {
+    "bank": "HDFC",
+    "card": "RUPAY",
+    "probability": 0.82,
+    "impact_percent": 52.5,
+    "latency": 1798.9,
+    "errors": {
+      "network_error": 7,
+      "issuer_decline": 13,
+      "timeout": 11
+    },
+    "suggested_action": "partial_reroute"
+  }
+]
